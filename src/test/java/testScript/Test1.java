@@ -10,6 +10,7 @@ public class Test1 {
 		
 		System.out.println("Welcome Ashish to Eclipse");
 		System.out.println("Welcome Ashish to Eclipse");
+		System.out.println("Welcome Ashish to Eclipse");
 
 	}
 
