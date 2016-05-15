@@ -1,0 +1,15 @@
+<suite name="aj-test">
+
+  <test name="AJ Test Three">
+    <classes>
+      <class name="testScript.Test1" />
+    </classes>
+  </test>
+
+  <test name="AJ Test Four">
+    <classes>
+      <class name="testScript.Test2" />
+    </classes>
+  </test>
+
+</suite>
